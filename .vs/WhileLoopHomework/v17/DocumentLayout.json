@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Skapar\\Documents\\GitHub\\While-Loop-Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{134DAFE9-1550-4909-92AC-08FE9C3BE4DF}|WhileLoopHomework\\WhileLoopHomework.csproj|c:\\users\\skapar\\documents\\github\\while-loop-homework\\whileloophomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134DAFE9-1550-4909-92AC-08FE9C3BE4DF}|WhileLoopHomework\\WhileLoopHomework.csproj|solutionrelative:whileloophomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Skapar\\Documents\\GitHub\\While-Loop-Homework\\WhileLoopHomework\\Program.cs",
+              "RelativeDocumentMoniker": "WhileLoopHomework\\Program.cs",
+              "ToolTip": "C:\\Users\\Skapar\\Documents\\GitHub\\While-Loop-Homework\\WhileLoopHomework\\Program.cs",
+              "RelativeToolTip": "WhileLoopHomework\\Program.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAgwIsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:40:08.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

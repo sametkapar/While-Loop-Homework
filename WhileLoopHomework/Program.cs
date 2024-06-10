@@ -132,7 +132,7 @@ namespace WhileLoopHomework
             //            pass = Console.ReadLine();
             //            Console.Clear();
             //        }
-            //        Console.WriteLine("Giriş Başarılı");
+            //        Console.WriteLine("(Şifre Hatalı)Giriş Başarılı");
             //    }
             //}
             //else
@@ -154,7 +154,7 @@ namespace WhileLoopHomework
             //        }
             //        if (pass == "1234")
             //        {
-            //            Console.WriteLine("Giriş Başarılı ");
+            //            Console.WriteLine("(Kullanıcı adı hatalı)Giriş Başarılı ");
             //        }
             //        else
             //        {
@@ -164,7 +164,6 @@ namespace WhileLoopHomework
             //                pass = Console.ReadLine();
             //                Console.Clear();
             //            }
-            //            Console.WriteLine("Giriş Başarılı");
             //        }
             //    }
 
