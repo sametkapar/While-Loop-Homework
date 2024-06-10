@@ -1,0 +1,7 @@
+C:\Users\Skapar\source\repos\WhileLoopHomework\WhileLoopHomework\bin\Debug\WhileLoopHomework.exe.config
+C:\Users\Skapar\source\repos\WhileLoopHomework\WhileLoopHomework\bin\Debug\WhileLoopHomework.exe
+C:\Users\Skapar\source\repos\WhileLoopHomework\WhileLoopHomework\bin\Debug\WhileLoopHomework.pdb
+C:\Users\Skapar\source\repos\WhileLoopHomework\WhileLoopHomework\obj\Debug\WhileLoopHomework.csproj.AssemblyReference.cache
+C:\Users\Skapar\source\repos\WhileLoopHomework\WhileLoopHomework\obj\Debug\WhileLoopHomework.csproj.CoreCompileInputs.cache
+C:\Users\Skapar\source\repos\WhileLoopHomework\WhileLoopHomework\obj\Debug\WhileLoopHomework.exe
+C:\Users\Skapar\source\repos\WhileLoopHomework\WhileLoopHomework\obj\Debug\WhileLoopHomework.pdb
